@@ -38,7 +38,7 @@ You have 3 different methods to access the voting plattform:
 
 | URL                      | ID only for the App   | QRcode                                                       |
 | ------------------------ | ----- | ------------------------------------------------------------ |
-| [www.menti.com/xqith2m736](www.menti.com/xqith2m736) | 99060 | ![](./images/QR.png)<!-- width="30%"--> |
+| [https://www.menti.com/xqith2m736](https://www.menti.com/xqith2m736) | 99060 | ![](./images/QR.png)<!-- width="30%"--> |
 
 The result is presented in the following way:
 
