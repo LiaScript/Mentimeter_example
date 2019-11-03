@@ -6,17 +6,16 @@ version:  0.0.1
 language: de
 narrator: Deutsch Female
 
-import: https://raw.githubusercontent.com/LiaTemplates/Rextester/master/README.md
-
 -->
 
 # Mentimeter
+
+An interactive version of this example is available on [Link](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/Mentimeter_example/master/mentimeter.md#1)
 
 Mentimeter is a Swedish company that develops and maintains an app used to create presentations with real-time feedback. Users can be invited to participate in surveys, discussions or common votes. The lecturer designs embeds the interactive format in web based presentation slides including a unique number identifying the specific course.
 The following image depicts the environment.
 
 ![Examplary Screenshot](./images/Screenshot.png)<!-- width="100%" -->
-
 
 Take a view on
 
